@@ -1,2 +1,2 @@
-# aci
+# photofit
 Photosynthesis Model Fitting Desktop Application
